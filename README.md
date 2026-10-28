@@ -35,6 +35,7 @@ Neste curso você faz, de verdade, o caminho de toda entrega das disciplinas: um
 > Ainda não tem conta no GitHub? Veja o módulo 2 do [Curso de GitHub](https://maristelaoliveira.github.io/curso-github/#m2).
 
 ---
+- **Meu site:** https://gitmaristela.github.io/minha-primeira-entrega/
 
 ## 👤 Sobre mim
 
